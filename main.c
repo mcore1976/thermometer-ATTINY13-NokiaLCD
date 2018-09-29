@@ -1,7 +1,7 @@
 
 /*--------------------------------------------------------------------------*
 * Digital thermometer on LM35, ATTINY13 with NOKIA 5110
-* with power saving mode, ultra low power, must be powered from 3,3V ( LM7803)
+* with power saving mode through watchdog,  must be powered from 3V (2xAA battery)
 *--------------------------------------------------------------------------*/
 
 
