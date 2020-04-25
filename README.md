@@ -9,4 +9,6 @@ Nokia LCD VSS/VCC/GND, VDD/VCC/GND of LM35/TMP36 and VCC/GND pins of ATTINY13 mu
 
 For TMP36 sensor ( which is capable to measure -50 - 100 Celsius ) there is a correction in the code to substract 0.5V from ADC reading. So if you want to use LM35 sensor you need to remove this line in the code.
 
+Link to video how to program the chip : https://www.youtube.com/watch?v=7klgyNzZ2TI
+
 to see how it works - look here https://www.youtube.com/watch?v=r6nF1iJ2r-M
